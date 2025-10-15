@@ -3,5 +3,3 @@ ini hands-on git
 
 ## Ubah dikit min
 ini diskripsi singkat
-
-ini text lagi
